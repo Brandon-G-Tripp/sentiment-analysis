@@ -13,7 +13,8 @@ The finished project will include training data, models and a real time web app 
 ```bash
 git clone git@github.com:Brandon-G-Tripp/sentiment-analysis
 cd sentiment-analysis 
-conda activate 
+<!-- need to find how to install virtual conda env for user -->
+conda activate nlp-sent 
 pip install -r requirements.txt
 ```
 
